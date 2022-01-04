@@ -338,4 +338,4 @@ if __name__ == '__main__':
 
     app.layout  = get_content()
 
-    app.run_server(port=8051, debug=True)
+    app.run_server(debug=True)
